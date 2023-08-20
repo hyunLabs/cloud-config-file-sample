@@ -1,4 +1,4 @@
 com:
   simple:
-    profile: clinet
+    profile: client
     region: test
